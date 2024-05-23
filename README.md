@@ -4,7 +4,7 @@
 
 ## <h3>Do que se trata o projeto?<h3/>
 
-Projeto back-end de um sistema de e-commerce
+Projeto back-end de um sistema de e-commerce <br/>
 
 ##
 
