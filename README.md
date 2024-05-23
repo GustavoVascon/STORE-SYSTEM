@@ -11,8 +11,8 @@ Projeto back-end de um sistema de e-commerce
 <h3>O que aprendi<h3/>
 - Criação de um projeto Spring Boot Java <br/>
 - Estruturação de camadas lógicas: resource, service, repository <br/>
-- Configurar banco de dados de teste (H2) <br/>
-- Povoar o banco de dados <br/>
+- Configurar banco de dados de teste H2 <br/>
+- Povoar o banco de dados para teste <br/>
 - CRUD - Create, Retrieve, Update, Delete <br/>
 - Tratamento de exceções <br/>
 - Utilização do Insomnia para testar APIs com solicitações HTTP<br/>
